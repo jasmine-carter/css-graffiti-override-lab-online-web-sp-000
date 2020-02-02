@@ -21,6 +21,6 @@ div#wall div.parent div:last-of-type{
   display:none;
 }
 
-body div#wall div.parent div > #tag-7.slick {
+body div#wall div.parent div:first-of-type #tag-7.slick {
   display:none;
 }
