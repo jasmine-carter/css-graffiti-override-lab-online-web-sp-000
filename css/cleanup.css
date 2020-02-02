@@ -22,5 +22,5 @@ div#wall div.parent div:last-of-type{
 }
 
 body div#wall div.parent div > #tag-7.slick {
-  display:none
+  display:none;
 }
